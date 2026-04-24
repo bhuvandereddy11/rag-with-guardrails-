@@ -47,11 +47,11 @@ Response + Eval Scores returned to UI
 
 ### Upload & Chat
 
-<!-- screenshot here -->
+![Chat UI](screenshots/chat.png)
 
 ### Eval Dashboard
 
-<!-- screenshot here -->
+![Eval Dashboard](screenshots/eval-dashboard.png)
 
 ---
 
